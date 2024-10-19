@@ -1,0 +1,9 @@
+[submodule "shared-zsh"]
+	path = shared-zsh
+	url = https://github.com/bpmckee/shared-zsh-dotfiles.git
+[submodule "shared-vim"]
+	path = shared-vim
+	url = https://github.com/bpmckee/shared-vim-dotfiles.git
+[submodule "shared-tmux"]
+	path = shared-tmux
+	url = https://github.com/bpmckee/shared-tmux-dotfiles.git
